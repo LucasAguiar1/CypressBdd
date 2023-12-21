@@ -1,0 +1,9 @@
+{
+    "testFiles": "**/*.feature",
+    "plugins": {
+      "cypress-cucumber-preprocessor": {
+        "nonGlobalStepDefinitions": true
+      }
+    }
+  }
+  
